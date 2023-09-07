@@ -7,7 +7,8 @@ Welcome to the Eye Medical Assistance Chatbot repository!
 Description
 Our chatbot is designed to provide efficient medical assistance for eye care. It utilizes Natural Language Processing (NLP) and Artificial Intelligence (AI) technologies to understand user queries and respond with accurate information. The chatbot also integrates Convolutional Neural Network (CNN) models to predict eye conditions like cataract, jaundice, and strabismus from external eye images.
 
-https://github.com/Shikhar-dhyani/EYO-CARE/blob/main/Images/chatbot1.png
+https://github.com/Shikhar-dhyani/EYO-CARE/assets/79635946/1b82121e-beaf-444e-87ea-ec48c8a8cf58
+
 
 Features
 NLP-based interactive chatbot for personalized responses
